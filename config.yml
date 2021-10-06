@@ -1,0 +1,11 @@
+bridge_ip:
+  192.168.0.10
+lights:
+  - 5
+  - 6
+  - 7
+rand:
+  - 5
+  - 15
+flash_duration:
+  0.75
